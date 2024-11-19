@@ -1,1 +1,3 @@
 # Python-Voice-Coding-System
+
+The Python Voice Coding System is an innovative application designed to empower programmers by enabling voice-driven coding, enhancing accessibility and efficiency. Built using Python, it integrates SpeechRecognition and PyAudio for real-time command detection and execution, allowing users to write, edit, and run Python code through voice commands. A sleek and interactive GUI built with Tkinter ensures ease of use, while MySQL is employed for logging and managing command history, providing a seamless blend of functionality and data management. This system caters to diverse user needs, making coding more inclusive and efficient for all.
